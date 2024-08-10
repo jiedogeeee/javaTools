@@ -1,0 +1,2 @@
+# javaTools
+该项目是关于生成Java开发中，springboot框架下开发的基础代码的生成工具
